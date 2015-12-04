@@ -1,0 +1,74 @@
+Web links from Cohort 10 Slack Channel - since November 18, 2015
+
+GitHub - keeping fork in sync https://gist.github.com/jcockhren/50fb8b8021d18188b434
+DevDocs (Steve's recco):  https://devdocs.io   
+DevDocs is an API documentation browser that combines 60+ docs in a single UI with offline mode, instant search, keyboard shortcuts, and more.
+
+Gaines' Basic Intro to .NET Concepts
+Demo illustrating alternate paths to data:  1) Direct SqlConnection (through SQL Express Server), and 2) via Entity Framework.
+https://github.com/gaines/nss/tree/master/day-cohort-10/20151123
+
+SIMPLE CALCULATOR EXERCISE
+Assignment -> https://github.com/jcockhren/simpleCalculatorJuniper
+Chunk 1 -> https://gist.github.com/jcockhren/e80dc84e9ee32bdd3f9c
+Chunk 2 -> https://gist.github.com/jcockhren/e50a1a128d0d0acd2b47
+Chunk 3 -> https://gist.github.com/jcockhren/f59307739c525caf8c2f(edited)
+Chunk 4 -> https://gist.github.com/jcockhren/6f81dfe974155b385c5f
+After Chunk 4 go ​*back*​ to the README and be sure you implement the rest of the required features.  If finished early, then try: 
+Advanced - Persistent Controls -> https://gist.github.com/jcockhren/fef4320dd2b2d182bb5e
+
+REGULAR EXPRESSIONS
+Regex Cheatsheet
+http://www.mikesdotnetting.com/article/46/c-regular-expressions-cheat-sheet
+90 Minute Regex Tutorial
+http://www.codeproject.com/Articles/9099/The-Minute-Regex-Tutorial
+MSDN Regular Expression Language - Quick Reference
+https://msdn.microsoft.com/en-us/library/az24scfc(v=vs.110).aspx
+Regex Testers
+https://visualstudiogallery.msdn.microsoft.com/16b9d664-d88c-460e-84a5-700ab40ba452
+http://www.regexplanet.com/advanced/dotnet/index.html
+http://regexr.com/
+http://regexone.com/   
+
+MOCKS
+http://martinfowler.com/articles/mocksArentStubs.html
+Moq: an enjoyable mocking library for .NET
+http://www.nuget.org/packages/Moq
+Repos for managing Moq 4.x -> https://github.com/Moq/moq4/
+Moq/moq4 Quickstart -> https://github.com/Moq/moq4/wiki/Quickstart
+Moq Documentation -> http://www.nudoq.org/#!/Projects/Moq
+
+GETTING OBJECTS FROM A DATABASE
+DbContext Class -> https://msdn.microsoft.com/en-us/library/system.data.entity.dbcontext(v=vs.113).aspx
+DbSet<TEntity> -> https://msdn.microsoft.com/en-us/library/gg696460%28v=vs.113%29.aspx
+IQueryable -> https://msdn.microsoft.com/library/bb351562%28v=vs.100%29.aspx
+ICompariable.CompareTo -> https://msdn.microsoft.com/en-us/library/system.icomparable.compareto%28v=vs.110%29.aspx
+
+HTTP  Protocol 1.1 RFC
+Reading Assignment HTTP Protocol 1.1 -> https://tools.ietf.org/html/rfc2616 (read chapters 4, 5, 6, 9, 10, 13.1, 14)
+
+FINAL CAPSTONE
+https://gist.github.com/jcockhren/00ffd45f40933b1d2c3e
+
+FRONT END
+User Stories ->  https://github.com/elizabrock/software-development-curriculum/blob/c755a6c5bbf4993c9cac511e5d66c7fe903d09a6/software-engineering/requirements-and-specifications/user-stories.md
+Design Resources
+http://sixrevisions.com/
+http://webdesignledger.com/
+
+Hockey ERD template
+
+ES2015
+https://www.codeschool.com/courses/es2015-the-shape-of-javascript-to-come/?utm_medium=email&utm_campaign=announcement_es2015_b&utm_source=mailchimp&utm_content=null
+
+
+SECURITY
+https://howsecureismypassword.net/
+https://www.yubico.com/faq/yubikey/
+http://www.privacyrights.org/data-breach
+
+
+JOB SEARCH
+Resume slides from John Wark are on google drive here: https://drive.google.com/file/d/0BwrAZG6H-NbIdGRoX1YzYTJkNWc/view?usp=sharing
+Sample resumes are in a folder on google drive.  Samples include ones we viewed in class plus a few more.  You can access the folder with this link: https://drive.google.com/folderview?id=0BzPcOJi3ue9LUnVYaVlHMHlub0E&usp=sharing
+A useful compilation of resume prep guidelines:  https://www.themuse.com/advice/42-resume-dos-and-donts-every-job-seeker-should-know
